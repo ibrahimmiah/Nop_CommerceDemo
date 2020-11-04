@@ -1,0 +1,28 @@
+2020-10-24 04:53:34 INFO  Browser:75 - Open browser and url
+2020-10-24 04:53:45 INFO  Browser:75 - Open browser and url
+2020-10-24 04:55:48 INFO  Browser:75 - Open browser and url
+2020-10-24 04:55:59 INFO  Browser:75 - Open browser and url
+2020-10-24 04:58:08 INFO  LoginPageTest:28 - org.apache.log4j.Logger@2b95e48b
+2020-10-24 04:58:19 INFO  LoginPageTest:28 - org.apache.log4j.Logger@2b95e48b
+2020-10-24 05:02:37 INFO  LoginPageTest:28 - org.apache.log4j.Logger@2b95e48b
+2020-10-24 05:02:48 INFO  LoginPageTest:28 - org.apache.log4j.Logger@2b95e48b
+2020-10-24 06:46:41 INFO  LoginPageTest:30 - Test passed
+2020-10-24 06:46:49 INFO  DashBordPageTest:28 - Click on logout button
+2020-10-24 06:48:28 INFO  LoginPageTest:23 - Open Url
+2020-10-24 06:48:51 INFO  DashBordPageTest:28 - Click on logout button
+2020-10-24 07:30:22 INFO  LoginPageTest:23 - Open Url
+2020-10-24 07:30:39 INFO  DashBordPageTest:28 - Click on logout button
+2020-10-24 17:03:37 INFO  LoginPageTest:23 - Open Url
+2020-10-24 17:03:54 INFO  DashBordPageTest:28 - Click on logout button
+2020-10-24 17:25:09 INFO  LoginPageTest:23 - Open Url
+2020-10-24 17:25:30 INFO  DashBordPageTest:29 - Click on logout button
+2020-10-24 17:26:55 INFO  LoginPageTest:23 - Open Url
+2020-10-24 17:27:13 INFO  DashBordPageTest:30 - Click on logout button
+2020-10-24 17:28:34 INFO  LoginPageTest:23 - Open Url
+2020-10-24 17:28:54 INFO  DashBordPageTest:30 - Click on logout button
+2020-10-24 17:35:59 INFO  LoginPageTest:23 - Open Url
+2020-10-24 17:36:17 INFO  DashBordPageTest:30 - Click on logout button
+2020-10-24 17:59:41 INFO  DashBordPageTest:31 - Click on logout button
+2020-10-24 18:03:27 INFO  DashBordPageTest:31 - Click on logout button
+2020-10-24 18:09:47 INFO  DashBordPageTest:31 - Click on logout button
+2020-10-24 18:17:29 INFO  DashBordPageTest:31 - Click on logout button
